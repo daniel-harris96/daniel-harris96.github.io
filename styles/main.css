@@ -6,3 +6,39 @@ body {
     color: navy;
     margin-left: 20px;
   }
+  body {
+    margin: auto;
+    width: 50%;
+    border: 10px solid purple;
+    padding: 10px;
+  }
+  p {
+    font-family: "quicksand", Charcoal, sans-serif;
+  }
+  h1 {
+    font-family: Impact, Charcoal, sans-serif;
+  }
+  .css-selector {
+    font-family: 'Quicksand', serif;
+    }
+    .funnymonki {
+      background-image: ;
+      width: 50%;
+      height: 1700px;
+      position: relative;
+      right: 606px;
+      top: -171;
+
+    }
+    .funnymonki {
+      cursor: crosshair;
+      float: right;
+      
+    }
+    .funnymonki2 {
+      background-image: ;
+      width: 50%;
+      height: 1700px;
+      position: relative;
+      left: 606px;
+      top: -189;
