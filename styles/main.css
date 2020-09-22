@@ -6,7 +6,7 @@ body {
     color: navy;
     margin-left: 20px;
   }
-  body {
+  div {
     margin: auto;
     width: 50%;
     border: 10px solid purple;
@@ -21,24 +21,26 @@ body {
   .css-selector {
     font-family: 'Quicksand', serif;
     }
-    .funnymonki {
-      background-image: ;
-      width: 50%;
-      height: 1700px;
-      position: relative;
-      right: 606px;
-      top: -171;
 
-    }
     .funnymonki {
-      cursor: crosshair;
-      float: right;
-      
+      position:absolute;
+      width:100px;
+      height:100px;
+      right:10px;
+      top:100px;
+}
+.funnymonki2 {
+  position:absolute;
+  width:100px;
+  height:100px;
+  left:10px;
+  top:100px;
+    
     }
-    .funnymonki2 {
-      background-image: ;
-      width: 50%;
-      height: 1700px;
-      position: relative;
-      left: 606px;
-      top: -189;
+  .body {
+  max-width: auto;
+  max-height: auto;
+  }
+  .a {
+    top: -2008;
+    }
