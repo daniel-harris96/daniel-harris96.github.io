@@ -44,3 +44,17 @@ body {
   .a {
     top: -2008;
     }
+
+  .tech3 {   margin: auto;
+    width: 50%;
+    border: 10px solid purple;
+    padding: 10px;
+  
+  }
+.culture3 {
+  margin: auto;
+  width: 50%;
+  border: 10px solid purple;
+  padding: 10px;
+
+}
